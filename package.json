@@ -1,0 +1,24 @@
+{
+  "name": "initial-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Queso-Smith/bootstrap-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Queso-Smith/bootstrap-setup/issues"
+  },
+  "homepage": "https://github.com/Alex-Queso-Smith/bootstrap-setup#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
