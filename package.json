@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/Alex-Queso-Smith/bootstrap-setup.git"
   },
-  "author": "",
+  "author": "Alex Queso Smith",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Alex-Queso-Smith/bootstrap-setup/issues"
@@ -20,5 +20,10 @@
   "homepage": "https://github.com/Alex-Queso-Smith/bootstrap-setup#readme",
   "devDependencies": {
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.14.7"
   }
 }
